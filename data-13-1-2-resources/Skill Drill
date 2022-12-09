@@ -7,11 +7,12 @@ var trace = {
 
 var data = [trace];
 
-// Add
+// Add x and y axis labels and a title 
 var layout = {
  title: "'Bar' Chart",
  xaxis: {title: "Drinks"},
  yaxis: {title: "% of Drinks Ordered"}
 };
 
+// Create your chart with all of the variables
 Plotly.newPlot("plotArea", data, layout);
