@@ -1,5 +1,5 @@
 var sortedCities = cityGrowths.sort((a,b) => a.Increase_from_2016 - b.Increase_from_2016).reverse(); 
-var topFiveCities = sortedCities.slice(0,5);
+var topFiveCities = sortedCities.slice(0,7);
 var topFiveCityNames = cityGrowths.map(city => city.City);
 
 // parseInt is used to convert strings into integers
