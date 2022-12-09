@@ -2,7 +2,9 @@
 Use Plotly.js to create an interactive data visualization for the web
 
 ## Overview 
-I was able to create a dynamic website that is interactable and displays the information for a specific drop down menu item. 
+I was able to create a dynamic website that is interactable and displays the information for a specific drop down menu item. I also used GitHub Pages to create a link for anyone without coding experience to view the results 
+
+**https://marcomireles123.github.io/Plotly_Biodiversity/**
 
 ## Results
 With my previous knowledge of HTML and JavaSCript I was able to create and host an HTML website that presents data of individual patients. 
